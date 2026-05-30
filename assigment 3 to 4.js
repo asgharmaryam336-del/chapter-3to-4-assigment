@@ -9,6 +9,11 @@ let visitcount = 14;
 alert("You have visited this site " + visitcount + " times ");
 
 //problem 3
+let birthYear = 2008;  // apna birth year yahan likho
+document.write("I was born in " + birthYear);
+
+
+//problem 4
 let visitorName = "ayesha";
 let productTitle = "T-shirt(s)";
 let quantity = 5;
